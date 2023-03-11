@@ -6,8 +6,7 @@ int main() {
     printf("Single-line Comment\n");
 
     /* This is a mult-line
-        comment
-    */
+        comment */
     printf("Multi-line Comment\n");
     return 0;
 }
