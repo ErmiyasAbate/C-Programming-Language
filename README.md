@@ -1,4 +1,4 @@
-# C Programming For Beginners - A 20 Day Curriculum
+# C Programming in just 20 Days
 
 For the last 40-45 years, C is one of the most popular and highly recognized programming languages in the world. In fact, it is the first programming language of a huge number of individuals.
 
